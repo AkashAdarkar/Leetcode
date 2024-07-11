@@ -1,5 +1,5 @@
 # Leetcode
 ***
-|1|Problem|Solution|
+|sr.no|Problem|Solution|
 |---- |---- |----|
 
