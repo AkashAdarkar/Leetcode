@@ -1,1 +1,5 @@
-LeetCode for fun!
+# Leetcode
+***
+|1|Problem|Solution|
+|---- |---- |----|
+
